@@ -1,0 +1,1 @@
+It is a 2D game about vampires and werewolves. The player is the avatar and joins the Vampires or the Werewolves team. The avatar has the ability to heal their own team in order to win the game. The controls are performed with WASD on a grid with customizable size. The last team standing becomes the winner!
